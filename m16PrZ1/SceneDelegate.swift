@@ -18,6 +18,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
         
         //features commit 1
+        
+        //features commit 2
+        
         guard let _ = (scene as? UIWindowScene) else { return }
     }
 
